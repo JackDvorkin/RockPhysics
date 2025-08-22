@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JackDvorkin/RockPhysics&file=FluidaA2FluidBGassmann.mlx&focus=true)
 
 # Poroelastic rock properties after fluid substitution
 
